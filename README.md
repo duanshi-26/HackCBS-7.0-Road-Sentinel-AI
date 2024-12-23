@@ -34,7 +34,7 @@ DrowsyGuard is a real-time drowsiness detection system designed to help prevent 
 
 1. **Clone the repository:**
    ```bash
-   git clone 
+   git clone https://github.com/duanshi-26/HackCBS-7.0-Road-Sentinel-AI/tree/main
    cd Drowsiness_detection_using_dlib_and_cv
    ```
 
